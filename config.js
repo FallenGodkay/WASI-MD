@@ -21,11 +21,11 @@ global.timezone= process.env.TZ || process.env.TIME_ZONE || "Asia/Pakistan";
 global.github=process.env.GITHUB|| "https://github.com/wasixd/WASI-MD";
 global.gurl  =process.env.GURL  || "https://whatsapp.com/channel/0029VaYsAMI9sBI1dl0Oh03q";
 global.website=process.env.GURL || "https://whatsapp.com/channel/0029VaYsAMI9sBI1dl0Oh03q" ; 
-global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/a41fc42eacdc2e56fcecd.jpg" ; // SET LOGO FOR IMAGE 
+global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/e246ee698f261f17b4dcf.jpg" ; // SET LOGO FOR IMAGE 
 
 
 
-global.devs = "923192173398" // Developer Contact
+global.devs = "27653224519" // Developer Contact
 global.sudo = process.env.SUDO ? process.env.SUDO.replace(/[\s+]/g, '27653224519') : "null";
 global.owner= process.env.OWNER_NUMBER ? process.env.OWNER_NUMBER.replace(/[\s+]/g, '27653224519') : "27653224519";
 
